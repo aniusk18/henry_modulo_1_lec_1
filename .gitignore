@@ -1,2 +1,13 @@
 .pytest_cache
 Pipfile
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos de configuración del entorno
+.env
+.env.*
+
+# Archivos de caché y compilación
+__pycache__/
+*.py[cod]
